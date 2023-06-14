@@ -6,45 +6,30 @@ body{
     background-color: #083B4C;
 }
 
-.multiplo_no{
-    background-color: #1389B2;
+.quadrato{
     list-style: none;
     width: 120px;
     height: 120px;
     margin: 10px;
     display: inline-block;
     line-height: 120px;
+}
 
+
+.multiplo_no{
+    background-color: #1389B2;
 }
 
 .multiplo_3_5{
     background-color: #F0466F;
-    list-style: none;
-    width: 120px;
-    height: 120px;
-    margin: 10px;
-    display: inline-block;
-    
 }
 
 .multiplo_5{
     background-color: #FFD166;
-    list-style: none;
-    width: 120px;
-    height: 120px;
-    margin: 10px;
-    display: inline-block;
-    
 }
 
 .multiplo_3{
     background-color: #0CD6A1;
-    list-style: none;
-    width: 120px;
-    height: 120px;
-    margin: 10px;
-    display: inline-block;
-    
 }
 
 
